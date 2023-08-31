@@ -12,7 +12,7 @@ If the Learner Wishes to skip a module he can Press the ***Start Learning Path**
 - Equipping the VR Goggles with the phone and the phone with the Graphic Tablet will Allow the Learning to Move throw the Room by using the Pen and clicking on a certain area in the graphic tablet
 - This Appication has no Collision detection so it would be adviced to be wary of bypassing the boundaries (Ending up in the Blue Zone)
 
-## Screen Shots
-![first pic](screenshots/1.png)
-![second pic](screenshots/2.png)
-![third pic](screenshots/3.png)
+## Screenshots
+![first pic](screenshots/1.jpg)
+![second pic](screenshots/2.jpg)
+![third pic](screenshots/3.jpg)
